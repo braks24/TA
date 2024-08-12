@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #000;
+}
+
+.container .row h1 {
+    letter-spacing: 3px;
+    color: #333;
+}
+
+.container .row p {
+    font-size: 25px;
+}
+footer {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.container input {
+    width: 500px;
+}
